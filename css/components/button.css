@@ -1,0 +1,8 @@
+.btn-primary {
+  color: white;
+  background-color: #1CDE87;      /*by default...*/
+  padding: 16px 36px;             /*display element of inline*/
+  border-radius: 50px;            /*inline: NOT allow to add height, margin..*/
+  display: inline-block;          /*only where <p> ends, button starts*/
+}
+
